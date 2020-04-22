@@ -32,7 +32,7 @@
 #### 1. HTTP 스터디
 
 - 주최자 : [forest.grass](https://github.com/korea8378)
-- 교재 : <[HTTP 완벽 가이드]](http://www.yes24.com/Product/Goods/15381085)>  
+- 교재 : <[HTTP 완벽 가이드](http://www.yes24.com/Product/Goods/15381085)>  
 - 장소 : 온라인  
 - 스터디 방법 : [링크](https://www.notion.so/HTTP-69702cea7ec54823878d1d3392231e76) 참조
 - 참여 방법 : 개인톡. **마감**

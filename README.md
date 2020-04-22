@@ -15,7 +15,7 @@
 
 ### 1. 게임 소모임
 
-- 주최자 : [JERCY](https://github.com/JERCY)
+- 주최자 : [JERCY](https://github.com/Jeasunglee)
 - 장소 : 온라인  
 - 설명 : 오버워치, 동물의 숲, 롤 등등 게임 좋아하는 사람들 모두 참여 가능!
 - 참여 방법 : 개인톡
